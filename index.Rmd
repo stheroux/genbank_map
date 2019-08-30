@@ -1,0 +1,28 @@
+---
+title: "GenBank California"
+author: ""
+output: 
+  html_document
+runtime: shiny
+---
+
+```{r setup, message = F, warning = F, echo = F}
+library(tidyverse)
+library(mapview)
+library(shiny)
+library(leaflet)
+library(shinyWidgets)
+
+opts_chunk$set(warning = FALSE, message = FALSE, eval = T, echo = F)
+
+# for mapshot on shinyapps
+if (is.null(suppressMessages(webshot:::find_phantom()))) { webshot::install_phantomjs() }
+
+# rmd downloads
+downloadButtonRmd <- function (outputId, label = "Download", class = NULL, ...)  {
+  tags$a(id = outputId, class = paste("btn btn-default shiny-download-link", 
+                                      class), href = "", target = "_blank", download = NA, 
+         icon("download"), label, ...)
+}
+
+```
