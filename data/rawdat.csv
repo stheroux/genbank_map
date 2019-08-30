@@ -1,111 +1,111 @@
 ﻿genbank_accession,gene,species,kingdom,supergroup,division,class,order,family,genus,gb_collection_date,gb_collected_by,pr2_sample_type,pr2_latitude,pr2_longitude,pubmed_id
-EU406837,18S_rRNA,Mopalia_lowei,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,6/26/05,A. Draeger,specimen,36.61,-121.89,NA
-EU406829,18S_rRNA,Mopalia_lowei,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,6/26/05,A. Draeger,specimen,36.61,-121.89,NA
-EU406787,18S_rRNA,Placiphorella_velata,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Placiphorella,6/26/05,A. Draeger,specimen,36.61,-121.89,NA
-EU406785,18S_rRNA,Placiphorella_velata,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Placiphorella,6/26/05,A. Draeger,specimen,36.61,-121.89,NA
-EU406786,18S_rRNA,Placiphorella_velata,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Placiphorella,6/26/05,A. Draeger,specimen,36.61,-121.89,NA
-EF650133,18S_rRNA,Saropogon_luteus,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Hexapoda,Insecta,Saropogon,5/30/02,M. Irwin F. Parker,specimen,32.65,-116.1,NA
-EF650132,18S_rRNA,Lestomyia_fraudiger,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Hexapoda,Insecta,Lestomyia,5/31/02,M. Irwin F. Parker,specimen,32.85,-116.45,NA
-EF650141,18S_rRNA,Stenopogon_rufibarbis,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Hexapoda,Insecta,Stenopogon,5/31/02,M. Irwin F. Parker,specimen,32.85,-116.45,NA
-EF650091,18S_rRNA,Phycus_frommeri,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Hexapoda,Insecta,Phycus,5/31/02,M. Irwin F. Parker,specimen,32.8,-116.5,NA
-EU406850,18S_rRNA,Mopalia_lionota,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/04,A. Draeger,specimen,36.61,-121.89,NA
-EU406851,18S_rRNA,Mopalia_lionota,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/04,A. Draeger,specimen,36.61,-121.89,NA
-EU406849,18S_rRNA,Mopalia_lionota,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/04,A. Draeger,specimen,36.61,-121.89,NA
-EU406857,18S_rRNA,Mopalia_acuta,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/04,A. Draeger,specimen,36.61,-121.89,NA
-EU406853,18S_rRNA,Mopalia_acuta,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/04,A. Draeger,specimen,36.61,-121.89,NA
-EU406852,18S_rRNA,Mopalia_lionota,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/04,A. Draeger,specimen,36.61,-121.89,NA
-EU406854,18S_rRNA,Mopalia_acuta,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/04,A. Draeger,specimen,36.61,-121.89,NA
-EU406855,18S_rRNA,Mopalia_acuta,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/04,A. Draeger,specimen,36.61,-121.89,NA
-GU246574,18S_rRNA,Acanthometra_sp.,Eukaryota,Rhizaria,Radiolaria,Acantharea,Arthracanthida-Symphyacanthida,Arthracanthida-Symphyacanthida_X,Acanthometra,8/13/04,NA,NA,33.33,-118.24,20044311
-EU406871,18S_rRNA,Mopalia_plumosa,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,12/1/04,R. Kelly,specimen,34.04,-118.93,NA
-EU406872,18S_rRNA,Mopalia_plumosa,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,12/1/04,R. Kelly,specimen,34.04,-118.93,NA
-JQ000221,18S_rRNA,Picalgoides_sp.,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Chelicerata,Arachnida,Picalgoides,8/10/06,NA,specimen,32.73694,-117.15333,23417682
-GU319847,18S_rRNA,Porphyra_lanceolata,Eukaryota,Archaeplastida,Rhodophyta,Bangiophyceae,Bangiales,Bangiaceae,Porphyra,4/8/08,Sandra Lindstrom,isolate,40.35,-124.36,NA
-GU319860,18S_rRNA,Wildemania_schizophylla,Eukaryota,Archaeplastida,Rhodophyta,Bangiophyceae,Bangiales,Bangiaceae,Wildemania,4/9/08,Sandra Lindstrom,isolate,39.28,-123.8,NA
-GU319846,18S_rRNA,Porphyra_lanceolata,Eukaryota,Archaeplastida,Rhodophyta,Bangiophyceae,Bangiales,Bangiaceae,Porphyra,1/1/08,Paul Gabrielson & Jeffery Hughey,isolate,36.62,-121.94,NA
-JX069328,18S_rRNA,Thalassiosira_rotula,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,1/1/68,"Jordan,J",specimen,32.8504,-117.2525,23102148
-EU406811,18S_rRNA,Cryptochiton_stelleri,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Cryptochiton,3/6/02,D.J. Eernisse,specimen,35.53,-121.08,NA
-JN815323,18S_rRNA,Haliplectus_sp.,Eukaryota,Opisthokonta,Metazoa,Nematoda,Chromadorea,Chromadorea_X,Haliplectus,7/8/04,I Tandingan De Ley & P De Ley,NA,36.7,-121.6,NA
-JQ781906,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781901,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781911,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782063,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781887,18S_rRNA,Acipenser_fulvescens,Eukaryota,Opisthokonta,Metazoa,Craniata,Craniata_X,Acipenseriformes,Acipenser,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781898,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781884,18S_rRNA,MAST-12A_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-12,MAST-12A,MAST-12A_X,MAST-12A_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781885,18S_rRNA,Cyclotella_striata,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Cyclotella,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782061,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781928,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781902,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781896,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781888,18S_rRNA,Cyclotella_striata,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Cyclotella,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781883,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782068,18S_rRNA,Araphid-pennate_X_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Araphid-pennate,Araphid-pennate_X,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782066,18S_rRNA,MAST-1C_XX_sp.,Eukaryota,Stramenopiles,Pseudofungi,MAST-1,MAST-1C,MAST-1C_X,MAST-1C_XX,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781924,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782070,18S_rRNA,Cyclotella_striata,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Cyclotella,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782075,18S_rRNA,Thalassiosira_tenera,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782056,18S_rRNA,Raphid-pennate_X_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Raphid-pennate,Raphid-pennate_X,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782079,18S_rRNA,Acipenser_fulvescens,Eukaryota,Opisthokonta,Metazoa,Craniata,Craniata_X,Acipenseriformes,Acipenser,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781889,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781916,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781890,18S_rRNA,Haliphthorales_X_sp.,Eukaryota,Stramenopiles,Pseudofungi,Oomycota,Oomycota_X,Haliphthorales,Haliphthorales_X,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781900,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781918,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781915,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781904,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781882,18S_rRNA,MAST-4E_XX_sp.,Eukaryota,Stramenopiles,Sagenista,MAST-4,MAST-4E,MAST-4E_X,MAST-4E_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782074,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781905,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781921,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781891,18S_rRNA,Bicosoeca_sp.,Eukaryota,Stramenopiles,Opalozoa,Bicoecea,Bicoecales,Bicoecaceae,Bicosoeca,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781917,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781910,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782069,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782073,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782077,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782057,18S_rRNA,Raphid-pennate_X_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Raphid-pennate,Raphid-pennate_X,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781926,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781929,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781912,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781930,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781931,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781923,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782076,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781919,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781922,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781913,18S_rRNA,MAST-7A_XX_sp.,Eukaryota,Stramenopiles,Sagenista,MAST-7,MAST-7A,MAST-7A_X,MAST-7A_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782062,18S_rRNA,Raphid-pennate_X_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Raphid-pennate,Raphid-pennate_X,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781903,18S_rRNA,MAST-7A_XX_sp.,Eukaryota,Stramenopiles,Sagenista,MAST-7,MAST-7A,MAST-7A_X,MAST-7A_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781899,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781914,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781886,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782064,18S_rRNA,MAST-1C_XX_sp.,Eukaryota,Stramenopiles,Pseudofungi,MAST-1,MAST-1C,MAST-1C_X,MAST-1C_XX,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782067,18S_rRNA,Radial-centric-basal-Coscinodiscophyceae_X_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Radial-centric-basal-Coscinodiscophyceae,Radial-centric-basal-Coscinodiscophyceae_X,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781908,18S_rRNA,MAST-7A_XX_sp.,Eukaryota,Stramenopiles,Sagenista,MAST-7,MAST-7A,MAST-7A_X,MAST-7A_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782060,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782058,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781907,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781920,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781893,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781909,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782059,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782078,18S_rRNA,Minidiscus_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Minidiscus,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781895,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781897,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782072,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781894,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782071,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781881,18S_rRNA,MAST-3E_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3E,MAST-3E_X,MAST-3E_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781892,18S_rRNA,Oomycota_XXX_sp.,Eukaryota,Stramenopiles,Pseudofungi,Oomycota,Oomycota_X,Oomycota_XX,Oomycota_XXX,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ781927,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/07,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
-JQ782065,18S_rRNA,MAST-4D_XX_sp.,Eukaryota,Stramenopiles,Sagenista,MAST-4,MAST-4D,MAST-4D_X,MAST-4D_XX,10/10/07,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
-KF381528,18S_rRNA,Cantharellula_umbonata,Eukaryota,Opisthokonta,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Cantharellula,11/16/98,R.D. Youst,specimen,37.9786,-121.8231,NA
-EU406826,18S_rRNA,Mopalia_plumosa,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,10/16/04,D.J. Eernisse,specimen,36.96,-121.97,NA
-EU406874,18S_rRNA,Katharina_tunicata,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Katharina,6/18/04,C. McGary,specimen,41.04,-124.12,NA
-EF650173,18S_rRNA,Willistonina_bilineata,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Hexapoda,Insecta,Willistonina,7/26/05,A. Cline S. Gaimari,specimen,38.25,-120.25,NA
-GU246591,18S_rRNA,Acantharea-Group-II_XX_sp.,Eukaryota,Rhizaria,Radiolaria,Acantharea,Acantharea-Group-II,Acantharea-Group-II_X,Acantharea-Group-II_XX,6/28/01,NA,environmental,33.33,-118.24,20044311
-JQ000146,18S_rRNA,Kakapolichus_sp.,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Chelicerata,Arachnida,Kakapolichus,9/30/07,L. Keener,specimen,32.73694,-117.1533,23417682
+EU406837,18S_rRNA,Mopalia_lowei,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,6/26/2005,A. Draeger,specimen,36.61,-121.89,NA
+EU406829,18S_rRNA,Mopalia_lowei,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,6/26/2005,A. Draeger,specimen,36.61,-121.89,NA
+EU406787,18S_rRNA,Placiphorella_velata,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Placiphorella,6/26/2005,A. Draeger,specimen,36.61,-121.89,NA
+EU406785,18S_rRNA,Placiphorella_velata,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Placiphorella,6/26/2005,A. Draeger,specimen,36.61,-121.89,NA
+EU406786,18S_rRNA,Placiphorella_velata,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Placiphorella,6/26/2005,A. Draeger,specimen,36.61,-121.89,NA
+EF650133,18S_rRNA,Saropogon_luteus,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Hexapoda,Insecta,Saropogon,5/30/2002,M. Irwin F. Parker,specimen,32.65,-116.1,NA
+EF650132,18S_rRNA,Lestomyia_fraudiger,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Hexapoda,Insecta,Lestomyia,5/31/2002,M. Irwin F. Parker,specimen,32.85,-116.45,NA
+EF650141,18S_rRNA,Stenopogon_rufibarbis,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Hexapoda,Insecta,Stenopogon,5/31/2002,M. Irwin F. Parker,specimen,32.85,-116.45,NA
+EF650091,18S_rRNA,Phycus_frommeri,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Hexapoda,Insecta,Phycus,5/31/2002,M. Irwin F. Parker,specimen,32.8,-116.5,NA
+EU406850,18S_rRNA,Mopalia_lionota,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/2004,A. Draeger,specimen,36.61,-121.89,NA
+EU406851,18S_rRNA,Mopalia_lionota,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/2004,A. Draeger,specimen,36.61,-121.89,NA
+EU406849,18S_rRNA,Mopalia_lionota,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/2004,A. Draeger,specimen,36.61,-121.89,NA
+EU406857,18S_rRNA,Mopalia_acuta,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/2004,A. Draeger,specimen,36.61,-121.89,NA
+EU406853,18S_rRNA,Mopalia_acuta,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/2004,A. Draeger,specimen,36.61,-121.89,NA
+EU406852,18S_rRNA,Mopalia_lionota,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/2004,A. Draeger,specimen,36.61,-121.89,NA
+EU406854,18S_rRNA,Mopalia_acuta,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/2004,A. Draeger,specimen,36.61,-121.89,NA
+EU406855,18S_rRNA,Mopalia_acuta,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,5/1/2004,A. Draeger,specimen,36.61,-121.89,NA
+GU246574,18S_rRNA,Acanthometra_sp.,Eukaryota,Rhizaria,Radiolaria,Acantharea,Arthracanthida-Symphyacanthida,Arthracanthida-Symphyacanthida_X,Acanthometra,8/13/2004,NA,NA,33.33,-118.24,20044311
+EU406871,18S_rRNA,Mopalia_plumosa,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,12/1/2004,R. Kelly,specimen,34.04,-118.93,NA
+EU406872,18S_rRNA,Mopalia_plumosa,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,12/1/2004,R. Kelly,specimen,34.04,-118.93,NA
+JQ000221,18S_rRNA,Picalgoides_sp.,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Chelicerata,Arachnida,Picalgoides,8/10/2006,NA,specimen,32.73694,-117.15333,23417682
+GU319847,18S_rRNA,Porphyra_lanceolata,Eukaryota,Archaeplastida,Rhodophyta,Bangiophyceae,Bangiales,Bangiaceae,Porphyra,4/8/2008,Sandra Lindstrom,isolate,40.35,-124.36,NA
+GU319860,18S_rRNA,Wildemania_schizophylla,Eukaryota,Archaeplastida,Rhodophyta,Bangiophyceae,Bangiales,Bangiaceae,Wildemania,4/9/2008,Sandra Lindstrom,isolate,39.28,-123.8,NA
+GU319846,18S_rRNA,Porphyra_lanceolata,Eukaryota,Archaeplastida,Rhodophyta,Bangiophyceae,Bangiales,Bangiaceae,Porphyra,1/1/2008,Paul Gabrielson & Jeffery Hughey,isolate,36.62,-121.94,NA
+JX069328,18S_rRNA,Thalassiosira_rotula,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,1/1/1968,"Jordan,J",specimen,32.8504,-117.2525,23102148
+EU406811,18S_rRNA,Cryptochiton_stelleri,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Cryptochiton,3/6/2002,D.J. Eernisse,specimen,35.53,-121.08,NA
+JN815323,18S_rRNA,Haliplectus_sp.,Eukaryota,Opisthokonta,Metazoa,Nematoda,Chromadorea,Chromadorea_X,Haliplectus,7/8/2004,I Tandingan De Ley & P De Ley,NA,36.7,-121.6,NA
+JQ781906,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781901,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781911,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782063,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781887,18S_rRNA,Acipenser_fulvescens,Eukaryota,Opisthokonta,Metazoa,Craniata,Craniata_X,Acipenseriformes,Acipenser,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781898,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781884,18S_rRNA,MAST-12A_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-12,MAST-12A,MAST-12A_X,MAST-12A_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781885,18S_rRNA,Cyclotella_striata,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Cyclotella,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782061,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781928,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781902,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781896,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781888,18S_rRNA,Cyclotella_striata,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Cyclotella,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781883,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782068,18S_rRNA,Araphid-pennate_X_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Araphid-pennate,Araphid-pennate_X,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782066,18S_rRNA,MAST-1C_XX_sp.,Eukaryota,Stramenopiles,Pseudofungi,MAST-1,MAST-1C,MAST-1C_X,MAST-1C_XX,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781924,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782070,18S_rRNA,Cyclotella_striata,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Cyclotella,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782075,18S_rRNA,Thalassiosira_tenera,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782056,18S_rRNA,Raphid-pennate_X_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Raphid-pennate,Raphid-pennate_X,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782079,18S_rRNA,Acipenser_fulvescens,Eukaryota,Opisthokonta,Metazoa,Craniata,Craniata_X,Acipenseriformes,Acipenser,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781889,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781916,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781890,18S_rRNA,Haliphthorales_X_sp.,Eukaryota,Stramenopiles,Pseudofungi,Oomycota,Oomycota_X,Haliphthorales,Haliphthorales_X,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781900,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781918,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781915,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781904,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781882,18S_rRNA,MAST-4E_XX_sp.,Eukaryota,Stramenopiles,Sagenista,MAST-4,MAST-4E,MAST-4E_X,MAST-4E_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782074,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781905,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781921,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781891,18S_rRNA,Bicosoeca_sp.,Eukaryota,Stramenopiles,Opalozoa,Bicoecea,Bicoecales,Bicoecaceae,Bicosoeca,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781917,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781910,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782069,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782073,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782077,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782057,18S_rRNA,Raphid-pennate_X_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Raphid-pennate,Raphid-pennate_X,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781926,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781929,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781912,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781930,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781931,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781923,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782076,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781919,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781922,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781913,18S_rRNA,MAST-7A_XX_sp.,Eukaryota,Stramenopiles,Sagenista,MAST-7,MAST-7A,MAST-7A_X,MAST-7A_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782062,18S_rRNA,Raphid-pennate_X_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Raphid-pennate,Raphid-pennate_X,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781903,18S_rRNA,MAST-7A_XX_sp.,Eukaryota,Stramenopiles,Sagenista,MAST-7,MAST-7A,MAST-7A_X,MAST-7A_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781899,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781914,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781886,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782064,18S_rRNA,MAST-1C_XX_sp.,Eukaryota,Stramenopiles,Pseudofungi,MAST-1,MAST-1C,MAST-1C_X,MAST-1C_XX,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782067,18S_rRNA,Radial-centric-basal-Coscinodiscophyceae_X_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Radial-centric-basal-Coscinodiscophyceae,Radial-centric-basal-Coscinodiscophyceae_X,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781908,18S_rRNA,MAST-7A_XX_sp.,Eukaryota,Stramenopiles,Sagenista,MAST-7,MAST-7A,MAST-7A_X,MAST-7A_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782060,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782058,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781907,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781920,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781893,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781909,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782059,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782078,18S_rRNA,Minidiscus_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Minidiscus,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781895,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781897,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782072,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781894,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782071,18S_rRNA,Thalassiosira_sp.,Eukaryota,Stramenopiles,Ochrophyta,Bacillariophyta,Bacillariophyta_X,Polar-centric-Mediophyceae,Thalassiosira,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781881,18S_rRNA,MAST-3E_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3E,MAST-3E_X,MAST-3E_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781892,18S_rRNA,Oomycota_XXX_sp.,Eukaryota,Stramenopiles,Pseudofungi,Oomycota,Oomycota_X,Oomycota_XX,Oomycota_XXX,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ781927,18S_rRNA,MAST-3C_XX_sp.,Eukaryota,Stramenopiles,Opalozoa,MAST-3,MAST-3C,MAST-3C_X,MAST-3C_XX,10/10/2007,"Welsh, R.M., Engman, G., Worden, A.Z.",environmental,36.74,-122.02,22344659
+JQ782065,18S_rRNA,MAST-4D_XX_sp.,Eukaryota,Stramenopiles,Sagenista,MAST-4,MAST-4D,MAST-4D_X,MAST-4D_XX,10/10/2007,"Engman, G., Welsh, R.M., Worden, A.Z.",environmental,36.74,-122.02,22344659
+KF381528,18S_rRNA,Cantharellula_umbonata,Eukaryota,Opisthokonta,Fungi,Basidiomycota,Agaricomycotina,Agaricomycetes,Cantharellula,11/16/1998,R.D. Youst,specimen,37.9786,-121.8231,NA
+EU406826,18S_rRNA,Mopalia_plumosa,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,10/16/2004,D.J. Eernisse,specimen,36.96,-121.97,NA
+EU406874,18S_rRNA,Katharina_tunicata,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Katharina,6/18/2004,C. McGary,specimen,41.04,-124.12,NA
+EF650173,18S_rRNA,Willistonina_bilineata,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Hexapoda,Insecta,Willistonina,7/26/2005,A. Cline S. Gaimari,specimen,38.25,-120.25,NA
+GU246591,18S_rRNA,Acantharea-Group-II_XX_sp.,Eukaryota,Rhizaria,Radiolaria,Acantharea,Acantharea-Group-II,Acantharea-Group-II_X,Acantharea-Group-II_XX,6/28/2001,NA,environmental,33.33,-118.24,20044311
+JQ000146,18S_rRNA,Kakapolichus_sp.,Eukaryota,Opisthokonta,Metazoa,Arthropoda,Chelicerata,Arachnida,Kakapolichus,9/30/2007,L. Keener,specimen,32.73694,-117.1533,23417682
 EU406846,18S_rRNA,Mopalia_imporcata,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,,A. Draeger,specimen,36.61,-121.89,NA
 EU406843,18S_rRNA,Mopalia_ferreirai,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,,A. Draeger,specimen,36.61,-121.89,NA
 EU406840,18S_rRNA,Mopalia_ferreirai,Eukaryota,Opisthokonta,Metazoa,Mollusca,Polyplacophora,Polyplacophora_X,Mopalia,,A. Draeger,specimen,36.61,-121.89,NA

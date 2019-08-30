@@ -8,11 +8,15 @@ runtime: shiny
 
 ```{r setup, message = F, warning = F, echo = F}
 library(tidyverse)
+library(knitr)
 library(mapview)
 library(shiny)
 library(leaflet)
 library(shinyWidgets)
+library(sf)
+library(here)
 
+# global chunk options
 opts_chunk$set(warning = FALSE, message = FALSE, eval = T, echo = F)
 
 # for mapshot on shinyapps
@@ -25,4 +29,92 @@ downloadButtonRmd <- function (outputId, label = "Download", class = NULL, ...) 
          icon("download"), label, ...)
 }
 
+# data
+dat <- read.csv(here('data', 'rawdat.csv'), stringsAsFactors = F) %>% 
+  rename(
+    genbank_accession = `ï..genbank_accession`
+  ) %>% 
+  st_as_sf(coords = c('pr2_longitude', 'pr2_latitude'), crs = 4326)
+
+# map types
+mptyps <- c("CartoDB.Positron", "CartoDB.DarkMatter", "OpenStreetMap", "Esri.WorldImagery", "OpenTopoMap")
+
+```
+
+```{r topselectors}
+
+column(width = 12,
+  column(width = 4,
+        
+        # select metric type
+        selectInput("fltby", "Select taxonomic filter type:", choices = c('kingdom', 'supergroup', 'division', 'class', 'order', 'family', 'genus', 'species', 'gene', 'gb_collection_date', 'gb_collected_by', 'pr2_sample_type'), selected = 'supergroup')
+  
+  ),
+  
+  column(width = 4, 
+        
+        renderUI({
+          
+          # input
+          fltby <- input$fltby
+          
+          # pull metrics to select based on input
+          tosel <- dat %>%
+            pull(!!fltby) %>% 
+            unique
+        
+          # select watershed
+          pickerInput("flts", label = 'Select filter(s):', choices = tosel,
+            options = list(`actions-box` = TRUE, size = 20), selected = tosel, multiple = TRUE)
+          
+        })
+        
+  )
+       
+)
+```
+
+```{r, reactives}
+# filtered data 
+datflt <- reactive({
+  
+  # inputs
+  fltby <- input$fltby
+  flts <- input$flts
+  
+  req(flts)
+  
+  flt <- dat %>% 
+    pull(!!fltby) 
+    
+  out <- dat %>% 
+    filter(flt %in% flts)
+  
+  return(out)
+  
+})
+
+# map
+genmap <- reactive({
+  
+  # input
+  datflt <- datflt()
+  
+  validate(
+    need(nrow(datflt) > 0, 'No data selected')
+  )
+  
+  out <- mapview(datflt, homebutton = F, color = 'black', zcol = 'pr2_sample_type', alpha = 0.9, 
+                 map.types = mptyps, layer = 'pr2_sample_type')
+  
+  return(out)
+  
+})
+```
+
+```{r, mapoutput}
+output$genmap <- renderLeaflet({genmap()@map})
+```
+```{r}
+leafletOutput('genmap', height = 700)
 ```
