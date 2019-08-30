@@ -44,6 +44,7 @@ mptyps <- c("CartoDB.Positron", "CartoDB.DarkMatter", "OpenStreetMap", "Esri.Wor
 ```{r topselectors}
 
 column(width = 12,
+       
   column(width = 4,
         
         # select metric type
@@ -69,14 +70,13 @@ column(width = 12,
           
         })
         
-  )
-       
+  ) 
 )
 ```
 
 ```{r, reactives}
 # filtered data 
-datflt <- reactive({
+gendat <- reactive({
   
   # inputs
   fltby <- input$fltby
@@ -98,13 +98,13 @@ datflt <- reactive({
 genmap <- reactive({
   
   # input
-  datflt <- datflt()
+  gendat <- gendat()
   
   validate(
-    need(nrow(datflt) > 0, 'No data selected')
+    need(nrow(gendat) > 0, 'No data selected')
   )
   
-  out <- mapview(datflt, homebutton = F, color = 'black', zcol = 'pr2_sample_type', alpha = 0.9, 
+  out <- mapview(gendat, homebutton = F, color = 'black', zcol = 'pr2_sample_type', alpha = 0.9, 
                  map.types = mptyps, layer = 'pr2_sample_type')
   
   return(out)
@@ -112,9 +112,57 @@ genmap <- reactive({
 })
 ```
 
+```{r, downloadhandlers}
+# map for observed species
+output$dlgenmap <- downloadHandler(
+  filename = function(){'genmap.png'},
+  content = function(file){
+    mapshot(x = genmap(), file = file)
+  }
+)
+
+# data filtered data
+output$dlgendat <- downloadHandler(
+  filename = function(){'gendat.csv'},
+  content = function(file){
+    browser()
+    crds <- st_coordinates(gendat()) %>% 
+      data.frame
+    names(crds) <- c('pr2_longitude', 'pr2_latitude')
+    todl <- gendat() %>% 
+      st_set_geometry(NULL) %>% 
+      data.frame %>% 
+      dplyr::bind_cols(., crds)
+    write.csv(todl, file, quote = T, row.names = F)
+  }
+)
+```
+
 ```{r, mapoutput}
 output$genmap <- renderLeaflet({genmap()@map})
+output$gentab <- renderDataTable({gendat()})
 ```
+
+# {.tabset}
+
+## Map
+
 ```{r}
-leafletOutput('genmap', height = 700)
+column(12, 
+  column(4, downloadButtonRmd('dlgenmap', 'Download map'))
+  )
+column(12, 
+  leafletOutput('genmap', height = 700)
+)
+
 ```
+
+## Table
+
+```{r}
+column(12, 
+  column(4, downloadButtonRmd('dlgentab', 'Download table'))
+  )
+shiny::dataTableOutput('gentab')
+```
+
