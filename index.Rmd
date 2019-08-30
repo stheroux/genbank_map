@@ -31,9 +31,6 @@ downloadButtonRmd <- function (outputId, label = "Download", class = NULL, ...) 
 
 # data
 dat <- read.csv(here('data', 'rawdat.csv'), stringsAsFactors = F) %>% 
-  rename(
-    genbank_accession = `ï..genbank_accession`
-  ) %>% 
   st_as_sf(coords = c('pr2_longitude', 'pr2_latitude'), crs = 4326)
 
 # map types
